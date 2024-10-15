@@ -59,6 +59,8 @@ The project successfully implemented machine learning models to predict customer
 - **Ensemble Methods**: Combining predictions from multiple models to create a more robust final prediction.
 
 ZAFER MESUT BILEN
+
 zafer@bilen.dev
+
 [bilen.dev](https://bilen.dev/)
 
