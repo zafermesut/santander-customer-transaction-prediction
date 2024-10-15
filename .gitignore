@@ -1,1 +1,6 @@
 data
+clf_solution.csv
+lgm_solution.csv
+xgb_solution.csv
+test_sample.csv
+xgb_model.joblib
