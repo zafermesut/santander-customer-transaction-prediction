@@ -57,3 +57,8 @@ The project successfully implemented machine learning models to predict customer
 - **Data Augmentation**: Exploring synthetic data generation techniques like SMOTE to address class imbalance more effectively.
 - **Hyperparameter Tuning**: Further fine-tuning models like XGBoost and LightGBM could yield even better results.
 - **Ensemble Methods**: Combining predictions from multiple models to create a more robust final prediction.
+
+ZAFER MESUT BILEN
+zafer@bilen.dev
+[bilen.dev](https://bilen.dev/)
+
